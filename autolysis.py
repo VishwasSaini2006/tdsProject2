@@ -1,16 +1,3 @@
-# /// script
-# requires-python = ">=3.11"
-# dependencies = [
-#    "chardet>=5.2.0",
-#    "matplotlib>=3.9.3",
-#    "pandas>=2.2.3",
-#    "python-dotenv>=1.0.1",
-#    "requests>=2.32.3",
-#    "scikit-learn>=1.6.0",
-#    "seaborn>=0.13.2",
-#] 
-# ///
-
 import os
 import sys
 import requests
